@@ -1,0 +1,63 @@
+body {
+  background-color: darkgray;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: '맑은 고딕', 'Times New Roman', Serif;
+  align-items: center;
+  justify-content: center;
+}
+
+#sqbox {
+  color: white;
+  background-color: black;
+  width: 60%;
+  border: solid 5px #eb4684;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#SquidGame {
+  border: solid 5px #eb4684;
+  background-color: black;
+}
+#Parasite {
+  border: solid 5px green;
+  background-color: white;
+}
+#prbox {
+  color: black;
+  background-color: white;
+  width: 60%;
+  border: solid 5px green;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Dokkaebi {
+  border: solid 5px black;
+  background-color: #caccc1;
+}
+#dkbox {
+  color: black;
+  background-color: #caccc1;
+  width: 60%;
+  border: solid 5px black;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#TH {
+  border: solid 5px #f3ab63;
+  background-color: black;
+}
+#thbox {
+  color: #f3ab63;
+  background-color: black;
+  width: 60%;
+  border: solid 5px #f3ab63;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,62 @@
+body {
+  background-color: beige;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: '맑은 고딕', 'Times New Roman', Serif;
+  align-items: center;
+  justify-content: center;
+}
+
+#BTS {
+  border: solid 5px black;
+  background-color: black;
+}
+#btsbox {
+  color: white;
+  background-color: black;
+  width: 60%;
+  border: solid 5px white;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#GG {
+  border: solid 5px white;
+  background-color: #ff84c3;
+}
+#ggbox {
+  color: black;
+  background-color: #ff84c3;
+  width: 60%;
+  border: solid 5px white;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#IU {
+  border: solid 5px #e4e724;
+  background-color: #e4e724;
+}
+#iubox {
+  color: black;
+  background-color: #e4e724;
+  width: 60%;
+  border: solid 5px #e4e724;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#EXO {
+  border: solid 5px #929397;
+  background-color: #929397;
+}
+#exobox {
+  color: black;
+  background-color: #929397;
+  width: 60%;
+  border: solid 5px #929397;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,94 @@
+body {
+  background-color: skyblue;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: '맑은 고딕', 'Times New Roman', Serif;
+  align-items: center;
+  justify-content: center;
+}
+
+#BBB {
+  border: solid 0px white;
+}
+#bbbbox {
+  list-style-position: outside;
+  padding: 10px;
+  text-align: left;
+  list-style-type: decimal;
+  color: black;
+  background-color: yellow;
+  width: 60%;
+  border: solid 5px white;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#bbbbox p {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+#BGG {
+  border: solid 0px white;
+}
+#bggbox {
+  list-style-position: outside;
+  padding: 10px;
+  text-align: left;
+  list-style-type: decimal;
+  color: white;
+  background-color: rgb(100, 50, 0);
+  width: 60%;
+  border: solid 5px white;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#bggbox p {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+#KC {
+  border: solid 0px white;
+}
+#kcbox {
+  list-style-position: outside;
+  padding: 10px;
+  text-align: left;
+  list-style-type: decimal;
+  color: black;
+  background-color: crimson;
+  width: 60%;
+  border: solid 5px green;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#kcbox p {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+#DJ {
+  border: solid 0px white;
+}
+#djbox {
+  list-style-position: outside;
+  padding: 10px;
+  text-align: left;
+  list-style-type: decimal;
+  color: black;
+  background-color: goldenrod;
+  width: 60%;
+  border: solid 5px black;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#djbox p {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}

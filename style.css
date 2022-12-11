@@ -1,0 +1,94 @@
+html,
+body {
+  height: 100%;
+}
+.clock {
+  color: white;
+  padding: 0px;
+  width: 300px;
+  margin: 5px auto;
+  height: fit-content;
+  border: double white;
+}
+body {
+  background-color: black;
+  height: 100%;
+}
+@keyframes textColorAnimation {
+  0% {
+    color: red;
+  }
+  50% {
+    color: blue;
+  }
+  100% {
+    color: red;
+  }
+}
+@keyframes textColorAnimation2 {
+  0% {
+    color: black;
+  }
+  50% {
+    color: white;
+  }
+  100% {
+    color: black;
+  }
+}
+h1 {
+  font-family: 'arial black';
+  animation-name: textColorAnimation;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  text-align: center;
+}
+#bw {
+  font-family: 'arial black';
+  animation-name: textColorAnimation2;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  text-align: center;
+}
+h2,
+h4,
+h3 {
+  text-align: center;
+}
+
+header {
+  background-image: url(flag.png);
+  background-position: center center;
+  background-repeat: repeat-x;
+  background-color: whitesmoke;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
+}
+
+section {
+  padding: 50px;
+  height: 70%;
+  float: left;
+}
+#한류,
+#KPOP,
+#KDrama,
+#KFood {
+  background-color: whitesmoke;
+}
+#sample img {
+  overflow: hidden;
+}
+p {
+  text-align: center;
+  font-family: '맑은 고딕', 'Times New Roman', Serif;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+#foot {
+  clear: both;
+  background: plum;
+}
